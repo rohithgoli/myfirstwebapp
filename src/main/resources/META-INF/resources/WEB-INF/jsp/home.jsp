@@ -3,6 +3,6 @@
 		<title>Home</title>
 	</head>
 	<body>
-		Welcome to Home Page
+		Hi ${name}, Welcome to Home Page
 	</body>
 </html>
